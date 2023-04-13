@@ -24,7 +24,7 @@ const numberOfBooksRead = () => {
     }
   }
   return ans;
-};
+}
 
 // Do not change the code below
 
